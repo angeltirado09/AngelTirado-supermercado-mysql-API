@@ -27,7 +27,7 @@ Pasos para clonar, construir y ejecutar la API de forma aislada.
 1. Clonar el repositorio
 Clona el proyecto de forma local e ingresa a la carpeta raíz de la solución (donde reside el archivo `.sln`):
 ```bash
-git clone [https://github.com/angeltirado09/AngelTirado-supermercado-mysql-API.git](https://github.com/angeltirado09/AngelTirado-supermercado-mysql-API.git)
+git clone https://github.com/angeltirado09/AngelTirado-supermercado-mysql-API.git
 cd AngelTirado-supermercado-mysql-API
 ```
 
